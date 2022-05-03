@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/museum.mp3?alt=media&token=ba7fee94-ac76-4050-b033-ed9debe39aef",
+    "word": "museum",
+    "definition": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited",
+    "pronounce": "mjuːˈzɪəm",
+    "example": "the Museum of Modern Art"
+  },
+  {
+    "id": 2,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/regard.mp3?alt=media&token=b8e1bfa7-65f7-4477-ad50-726d17e5d9a9",
+    "word": "regard",
+    "definition": "relate to; concern",
+    "pronounce": "rɪˈɡɑːd",
+    "example": "if these things regarded only myself, I could stand it with composure"
+  },
+  {
+    "id": 3,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/complaint.mp3?alt=media&token=a4e9d657-c6ac-420e-a3ba-959dc95cc032",
+    "word": "complaint",
+    "definition": "a statement that something is unsatisfactory or unacceptable",
+    "pronounce": "kəmˈpleɪnt",
+    "example": "I intend to make an official complaint"
+  },
+  {
+    "id": 4,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/apologiz.mp3?alt=media&token=3ae2d03b-f1af-4b64-b804-57e3fb05a62d",
+    "word": "apologiz",
+    "definition": "express regret for something that one has done wrong.",
+    "pronounce": "əˈpɒlədʒʌɪz",
+    "example": "I must apologize for disturbing you like this"
+  },
+  {
+    "id": 5,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/necessary.mp3?alt=media&token=eaea8c3f-e247-4b0a-9c7e-f8b6b0d7f2cb",
+    "word": "necessary",
+    "definition": "needed to be done, achieved, or present; essential",
+    "pronounce": "ˈnɛsəs(ə)ri",
+    "example": "they granted the necessary planning permission"
+  },
+  {
+    "id": 6,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/most%20profound.mp3?alt=media&token=afea50db-3726-43a4-92ff-055450bc3129",
+    "word": "most profound",
+    "definition": "(of a state, quality, or emotion) very great or intense",
+    "pronounce": "prəˈfaʊnd",
+    "example": "profound feelings of disquiet"
+  },
+  {
+    "id": 7,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/gratitude.mp3?alt=media&token=c196329a-c671-439d-ad75-b2ac29a40c04",
+    "word": "gratitude",
+    "definition": "the quality of being thankful; readiness to show appreciation for and to return kindness",
+    "pronounce": "ˈɡratɪtjuːd",
+    "example": "she expressed her gratitude to the committee for their support"
+  },
+  {
+    "id": 9,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/neighbor.mp3?alt=media&token=d09a9b38-427f-4889-a9cf-0e482f90baa8",
+    "word": "neighbor",
+    "definition": "a person living next door to or very near to the speaker or person referred to",
+    "pronounce": "ˈneɪbə",
+    "example": "our garden was the envy of the neighbours"
+  },
+  {
+    "id": 10,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/sincerely.mp3?alt=media&token=c33e2962-55f0-4816-8fde-16a8dee6ad29",
+    "word": "sincerely",
+    "definition": "in a sincere or genuine way",
+    "pronounce": "sɪnˈsɪəli",
+    "example": "a sincerely held belief"
+  },
+  {
+    "id": 11,
+    "sound": "https://firebasestorage.googleapis.com/v0/b/jean-20d47.appspot.com/o/furnace.mp3?alt=media&token=883b0437-84ee-4152-8092-4bac82ee87a2",
+    "word": "furnace",
+    "definition": "an enclosed structure in which material can be heated to very high temperatures, e.g. for smelting metals.",
+    "pronounce": "ˈfəːnɪs",
+    "example": "her car was a furnace"
+  }
+]
